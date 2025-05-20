@@ -1,5 +1,7 @@
+import Contact from "./components/MiguelIslas"
+
 export default function App() {
   return (
-    <div>AlphaEdu Site</div>
+    <div><Contact></Contact></div>
   )
 }
