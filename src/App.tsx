@@ -1,5 +1,10 @@
+import Abraham from "./components/abraham"
+
+
 export default function App() {
   return (
-    <div className="border h-1 text font-extrabold">AlphaEdu Site</div>
+    <div className="">AlphaEdu Site <Abraham/> </div>
+
   )
+
 }
